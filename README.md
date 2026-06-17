@@ -119,18 +119,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Aman-das-dev">
-<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="70">
-</a>
-
-<a href="mailto:sahebprasaddas12@gmail.com">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70">
-</a>
-
 </p>
 
 ---
