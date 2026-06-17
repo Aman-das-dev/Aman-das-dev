@@ -1,145 +1,157 @@
-<h1 align="center">Hi 👋, I'm Aman Prasad Das</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aman+Prasad+Das;Backend+Developer;MERN+Stack+Developer;Java+Developer;Open+Source+Learner" />
+</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Java+Developer;B.Tech+CSE+Student;Open+Source+Learner;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=250&section=header&text=Aman%20Prasad%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=250&section=header&text=Aman%20Prasad%20Das&fontSize=50&fontColor=ffffff"/>
+</div>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+# 💫 About Me
 
 🎓 B.Tech CSE Student
 
-💻 Backend Developer & MERN Stack Enthusiast
+💻 Backend & MERN Stack Developer
 
-🌱 Learning Advanced React, Node.js & Next.js
+🚀 Building Full Stack Applications
 
-🔭 Building Full Stack Web Applications
+🌱 Learning Next.js & System Design
 
-⚡ Love Problem Solving & Development
-
-🏆 Backend Development Intern at Web Bocket
+🏆 Backend Development Intern
 
 📍 Odisha, India
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="80">
+
+</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-das-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=react-dark&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-das-dev&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=react-dark"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🍔 TasteBite
 
-Restaurant Management System using React, Node.js, Express & MongoDB.
+Full Stack Restaurant Management Platform
+
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
 
 ### 🛒 MERN E-Commerce
 
-Full Stack Shopping Platform with Authentication, Cart & Payment Integration.
+Authentication • Cart • Payments
 
 ### 🔗 URL Shortener
 
-Node.js + Express + MongoDB URL Shortener.
+Node.js + MongoDB
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-💼 Backend Development Intern — Web Bocket
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-🎖️ Programming Fundamentals Intern — IIG Varsity Bhubaneswar
+✅ Backend Development Intern — Web Bocket
 
-📜 IBM SkillsBuild — Use Generative AI for Software Development
+✅ Programming Fundamentals Intern — IIG Varsity
 
----
-
-## 🎯 Current Goals
-
-* 🚀 Become a Full Stack Developer
-* 🌟 Contribute to Open Source
-* 📚 Master System Design
-* ☁️ Learn Cloud Technologies
-* 🤖 Explore AI & Machine Learning
+✅ IBM SkillsBuild Certification
 
 ---
 
-## 🐍 Contribution Snake
+# 🎯 Current Goals
+
+🎯 Master Backend Development
+
+🎯 Learn Cloud & DevOps
+
+🎯 Contribute to Open Source
+
+🎯 Crack Top Software Roles
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/Aman-das-dev">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="80">
 </a>
 
 <a href="mailto:sahebprasaddas12@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80">
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif">
 </p>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=Profile+Views&color=blue&style=for-the-badge"/>
 </p>
 
-<h3 align="center">⭐ Thanks For Visiting My Profile ⭐</h3>
+<h2 align="center">
+⭐ Thanks For Visiting My Profile ⭐
+</h2>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="250">
 </p>
