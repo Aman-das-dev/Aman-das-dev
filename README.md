@@ -1,45 +1,51 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aman+Prasad+Das;Backend+Developer;MERN+Stack+Developer;Java+Developer;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Srimaya+Kumar+Sahoo;Backend+Developer;MERN+Stack+Developer;Java+Developer;Next.js+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" />
 </h1>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=250&section=header&text=Aman%20Prasad%20Das&fontSize=50&fontColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:6A5ACD&text=Srimaya%20Kumar%20Sahoo&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+
 </div>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/Aman-das-dev?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Aman-das-dev?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
 
 ---
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-
 # 💫 About Me
 
-🎓 B.Tech CSE Student
+🎓 B.Tech Computer Science Student
 
-💻 Backend & MERN Stack Developer
+💻 Backend & Full Stack Developer
 
-🚀 Building Full Stack Applications
+🚀 Passionate about building scalable web applications
 
-🌱 Learning Next.js & System Design
+🌱 Learning AI, Cloud, DevOps & System Design
 
-🏆 Backend Development Intern
+🏆 12+ Full Stack Projects
+
+💡 220+ LeetCode Problems Solved
+
+🏅 Hackathon Participant & Open Source Learner
 
 📍 Odisha, India
 
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="80">
-
-</div>
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind,docker,postman,vscode,vercel"/>
+
 </p>
 
 ---
@@ -47,21 +53,27 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-das-dev&theme=tokyonight&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-das-dev&theme=tokyonight&row=2&column=4"/>
+
 </p>
 
 ---
@@ -69,80 +81,150 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=react-dark"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=react-dark&hide_border=true"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🍔 TasteBite
+## 🍔 TasteBite
 
 Full Stack Restaurant Management Platform
 
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT Authentication
+- Razorpay Integration
 
-### 🛒 MERN E-Commerce
+---
 
-Authentication • Cart • Payments
+## 💰 FinVerse AI
 
-### 🔗 URL Shortener
+AI Powered Finance & Currency Platform
 
-Node.js + MongoDB
+- React
+- Gemini AI
+- Finance Dashboard
+- Currency Converter
+
+---
+
+## 🧩 AI Jigsaw Solver
+
+Machine Learning Hackathon Project
+
+- CNN
+- Graph Neural Network
+- Python
+- PyTorch
+
+---
+
+## 🔗 URL Shortener
+
+Node.js + Express + MongoDB
+
+---
+
+## 🌱 EcoTrack AI
+
+AI-powered Sustainability Platform
 
 ---
 
 # 💼 Experience
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-✅ Backend Development Intern — Web Bocket
+✅ Backend Development Intern — Web Bocket Software Pvt. Ltd.
 
 ✅ Programming Fundamentals Intern — IIG Varsity
 
-✅ IBM SkillsBuild Certification
+✅ IBM SkillsBuild Certified
 
 ---
 
-# 🎯 Current Goals
+# 🏅 Achievements
 
-🎯 Master Backend Development
+🏆 3rd Place — Machine Learning Hackathon
 
-🎯 Learn Cloud & DevOps
+💻 220+ LeetCode Problems
 
-🎯 Contribute to Open Source
+🚀 Built 12+ Projects
 
-🎯 Crack Top Software Roles
+🌟 Active GitHub Contributor
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Backend Development
+
+✅ Learn Kubernetes & Docker
+
+✅ Master AI Engineering
+
+✅ Crack Top Product Companies
+
+✅ Contribute to Open Source
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://github.com/Aman-das-dev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
 
 </p>
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif">
-</p>
+# 💻 Profile Stats
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-das-dev&theme=tokyonight"/>
+
 </p>
+
+---
 
 <h2 align="center">
-⭐ Thanks For Visiting My Profile ⭐
+
+⭐ Thanks for Visiting My Profile ⭐
+
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="250">
+
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="280"/>
+
 </p>
