@@ -1,230 +1,104 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Srimaya+Kumar+Sahoo;Backend+Developer;MERN+Stack+Developer;Java+Developer;Next.js+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" />
-</h1>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:6A5ACD&text=Srimaya%20Kumar%20Sahoo&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
+# <div align="center">Hi 👋, I'm Aman Prasad Das</div>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+Developer;Full+Stack+MERN+Developer;Java+Developer;AI+%26+ML+Enthusiast;Open+Source+Learner" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Aman-das-dev?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Aman-das-dev?affiliations=OWNER&style=for-the-badge"/>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=240&section=header&text=Aman%20Prasad%20Das&fontSize=46&fontColor=ffffff"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science Student
+- 🎓 B.Tech Computer Science & Engineering Student
+- 💻 Backend & MERN Stack Developer
+- 🚀 Passionate about scalable web applications
+- 🌱 Learning Next.js, TypeScript, AI/ML, Cloud & DevOps
+- 🏆 Built multiple full-stack projects
+- 📍 Odisha, India
 
-💻 Backend & Full Stack Developer
-
-🚀 Passionate about building scalable web applications
-
-🌱 Learning AI, Cloud, DevOps & System Design
-
-🏆 12+ Full Stack Projects
-
-💡 220+ LeetCode Problems Solved
-
-🏅 Hackathon Participant & Open Source Learner
-
-📍 Odisha, India
-
----
-
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind,docker,postman,vscode,vercel"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,tailwind,postman,vscode,vercel" />
 </p>
 
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Aman-das-dev&theme=tokyonight&row=2&column=4"/>
-
 </p>
 
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=react-dark&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night"/>
 </p>
-
----
 
 # 🚀 Featured Projects
 
-## 🍔 TasteBite
+### 🍔 TasteBite
+Restaurant Management System built with React, Node.js, Express & MongoDB.
 
-Full Stack Restaurant Management Platform
+### 💰 FinVerse AI
+AI-powered finance dashboard and smart currency tools.
 
-- React
-- Node.js
-- Express
-- MongoDB
-- JWT Authentication
-- Razorpay Integration
+### 🌱 EcoTrack AI
+Sustainability and environmental analytics platform.
 
----
+### 🔗 URL Shortener
+Fast URL shortening service using Node.js and MongoDB.
 
-## 💰 FinVerse AI
+## 💼 Experience
 
-AI Powered Finance & Currency Platform
+- ✅ Backend Development Intern — Web Bocket Software Pvt. Ltd.
+- ✅ Programming Fundamentals Intern — IIG Varsity
+- ✅ IBM SkillsBuild Certified
 
-- React
-- Gemini AI
-- Finance Dashboard
-- Currency Converter
+## 🏅 Achievements
 
----
+- 💻 Multiple Full Stack Projects
+- 🌟 Open Source Learner
+- 🚀 MERN Stack Developer
+- 🤖 AI/ML Enthusiast
 
-## 🧩 AI Jigsaw Solver
+## 🎯 Current Goals
 
-Machine Learning Hackathon Project
+- Master Backend Engineering
+- Learn Kubernetes & Docker
+- Explore AI Engineering
+- Contribute to Open Source
 
-- CNN
-- Graph Neural Network
-- Python
-- PyTorch
-
----
-
-## 🔗 URL Shortener
-
-Node.js + Express + MongoDB
-
----
-
-## 🌱 EcoTrack AI
-
-AI-powered Sustainability Platform
-
----
-
-# 💼 Experience
-
-✅ Backend Development Intern — Web Bocket Software Pvt. Ltd.
-
-✅ Programming Fundamentals Intern — IIG Varsity
-
-✅ IBM SkillsBuild Certified
-
----
-
-# 🏅 Achievements
-
-🏆 3rd Place — Machine Learning Hackathon
-
-💻 220+ LeetCode Problems
-
-🚀 Built 12+ Projects
-
-🌟 Active GitHub Contributor
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Backend Development
-
-✅ Learn Kubernetes & Docker
-
-✅ Master AI Engineering
-
-✅ Crack Top Product Companies
-
-✅ Contribute to Open Source
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Aman-das-dev
+- LinkedIn: Add your LinkedIn URL
+- Portfolio: Add your portfolio URL
+- Email: Add your email
 
 ---
 
-# 🌐 Connect With Me
-
 <p align="center">
-
-<a href="https://github.com/Aman-das-dev">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=Profile+Views&style=for-the-badge"/>
 </p>
 
----
-
-# 💻 Profile Stats
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-das-dev&theme=tokyonight"/>
-
-</p>
-
----
-
-<h2 align="center">
-
-⭐ Thanks for Visiting My Profile ⭐
-
-</h2>
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="280"/>
-
-</p>
+<h2 align="center">⭐ Thanks for Visiting My Profile ⭐</h2>
