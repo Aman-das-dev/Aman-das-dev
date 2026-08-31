@@ -1,270 +1,344 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:1a3a5c&height=200&section=header&text=Aman%20Prasad%20Das&fontSize=44&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20%7C%20AI%2FML&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
+# 👋 Hi, I'm Aman Prasad Das
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Shipping+full-stack+MERN+applications;Exploring+applied+machine+learning" alt="Typing SVG" />
+### Backend Developer • Full-Stack Engineer • AI/ML Explorer
+
+**I build scalable backend systems, full-stack applications, and practical AI-powered products.**
+
+<br/>
+
+<a href="https://github.com/Aman-das-dev">
+<img src="https://img.shields.io/badge/GitHub-Aman--das--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/aman-das-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#-connect">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-238636?style=for-the-badge"/>
+</a>
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aman-das-dev&label=Profile+Views&color=30363d&style=flat-square)](https://github.com/Aman-das-dev)
-[![Followers](https://img.shields.io/github/followers/Aman-das-dev?label=Followers&style=flat-square&color=30363d&labelColor=161b22)](https://github.com/Aman-das-dev?tab=followers)
-[![Open to Internships](https://img.shields.io/badge/status-open%20to%20internships-238636?style=flat-square&labelColor=161b22)](#connect-with-me)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Creating+full-stack+MERN+applications;Exploring+AI%2FML+in+real-world+products;Learning+System+Design+%26+Cloud;Always+building%2C+learning%2C+improving." />
 
 </div>
 
-<br/>
+---
 
-## About
+## 🧑‍💻 About Me
 
-B.Tech Computer Science & Engineering student (GIFT Autonomous College, 2023 – 2027) from Odisha, India, working toward a Backend/Full Stack Software Engineer role at a top product company. I build across the **MERN stack**, **Java**, and applied **AI/ML**, with a focus on backend systems that stay clean and maintainable as they scale.
+I'm a **B.Tech Computer Science & Engineering student at GIFT Autonomous College**, currently working toward becoming a **Backend / Full-Stack Software Engineer**.
 
-- **Goal:** ship production-ready applications, contribute to open source, and land a software engineering role specializing in MERN, Java, AI/ML, and Cloud.
-- **Interests:** backend development, full-stack development, AI/ML, system design, cloud computing, open source, DevOps.
-- Currently interning in backend development — see **Experience** below.
+I enjoy turning ideas into working software — from designing REST APIs and database systems to building complete web applications and experimenting with AI/ML.
 
-<br/>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    AMAN PRASAD DAS                       │
+├──────────────────────────────────────────────────────────┤
+│ 🎯 Focus       Backend & Full-Stack Development          │
+│ ⚙️ Stack       MERN • Java • Python • AI/ML              │
+│ 🧠 Learning    System Design • Cloud • DevOps            │
+│ 🚀 Goal        Production-ready software                 │
+│ 🌱 Mindset     Build → Learn → Improve → Repeat          │
+└──────────────────────────────────────────────────────────┘
+```
 
-## Education
+### Currently focused on
 
-| | |
-|---|---|
-| **Degree** | B.Tech, Computer Science & Engineering |
-| **Institution** | GIFT Autonomous College |
-| **Duration** | 2023 – 2027 |
+* 🔧 Building production-oriented backend systems
+* 🌐 Developing full-stack MERN applications
+* 🤖 Exploring practical AI/ML applications
+* 🏗️ Learning system design and scalable architecture
+* ☁️ Exploring AWS, Docker, Kubernetes and cloud technologies
+* 🤝 Preparing for Backend / Full-Stack Software Engineering roles
 
-<br/>
+---
 
-## Tech Stack
+# ⚡ What I Build
 
-**Languages** &nbsp;Java · Python · JavaScript · TypeScript · C · SQL
-**Frontend** &nbsp;React.js · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap
-**Backend** &nbsp;Node.js · Express.js · REST APIs · JWT Authentication
-**Databases** &nbsp;MongoDB · MySQL
-**Tooling & Deployment** &nbsp;Git · GitHub · VS Code · Postman · Docker · Vercel · Netlify
+| Area            | What I work on                            |
+| --------------- | ----------------------------------------- |
+| 🛠️ Backend     | REST APIs, authentication, business logic |
+| 🌐 Full Stack   | MERN applications and dashboards          |
+| 🗄️ Databases   | MongoDB, MySQL, SQL                       |
+| 🤖 AI/ML        | Applied machine learning projects         |
+| 🔐 Security     | JWT authentication and API protection     |
+| ☁️ Cloud        | Docker, AWS and deployment workflows      |
+| 🧩 Architecture | Clean, maintainable and scalable systems  |
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,c,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker,vercel,netlify&theme=dark" alt="Tech Stack Icons"/>
+# 🧰 Tech Arsenal
 
-</div>
+### Languages
 
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-## GitHub Analytics
+### Frontend
 
-<div align="center">
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+### Backend
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+### Databases
 
-<br/><br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true" width="95%" alt="Activity Graph"/>
+### Tools & Deployment
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 
-<br/>
+---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-das-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-## Profile Summary Cards
-
-Auto-generated snapshot of profile details, language breakdown, and activity patterns — refreshed daily.
-
-<!--
-  Generated automatically by .github/workflows/profile-summary.yml
-  Cards are committed to the `profile-summary-cards-output` branch.
--->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/profile-summary-cards-output/profile-summary-card-dark/0-profile-details.svg" alt="Profile Details"/>
-<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/profile-summary-cards-output/profile-summary-card-dark/1-repos-per-language.svg" alt="Repos per Language"/>
-<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/profile-summary-cards-output/profile-summary-card-dark/2-most-commit-language.svg" alt="Most Commit Language"/>
-<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/profile-summary-cards-output/profile-summary-card-dark/3-stats.svg" alt="Stats"/>
-<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/profile-summary-cards-output/profile-summary-card-dark/4-productive-time.svg" alt="Productive Time"/>
-
-</div>
-
-<br/>
-
-## GitHub Metrics
-
-Extended stats — commit habits, language usage, and repository metadata — updated daily via the `metrics.yml` workflow.
-
-<!--
-  Generated automatically by .github/workflows/metrics.yml
-  SVG is committed directly to the repository at ./assets/metrics.svg
--->
-<div align="center">
-
-<img src="./assets/metrics.svg" width="100%" alt="GitHub Metrics"/>
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<!--
-  Generated automatically by .github/workflows/snake.yml
-  SVG is committed to the `output` branch.
--->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
-<br/>
-
-## Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Aman-das-dev/TasteBite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=TasteBite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="TasteBite"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=TasteBite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </a>
+
 <a href="https://github.com/Aman-das-dev/FinVerse-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=FinVerse-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="FinVerse AI"/>
-</a>
-<br/>
-<a href="https://github.com/Aman-das-dev/EcoTrack-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=EcoTrack-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="EcoTrack AI"/>
-</a>
-<a href="https://github.com/Aman-das-dev/URL-Shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=URL-Shortener&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="URL Shortener"/>
-</a>
-<br/>
-<a href="https://github.com/Aman-das-dev/AI-Jigsaw-Solver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=AI-Jigsaw-Solver&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="AI Jigsaw Solver"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=FinVerse-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </a>
 
 </div>
 
-**[TasteBite](https://github.com/Aman-das-dev/TasteBite)** — full-stack restaurant management platform with authentication, a restaurant dashboard, order management, cart, and payments. *React, Node.js, Express.js, MongoDB, JWT, REST APIs*
+### 🍽️ TasteBite
 
-**[FinVerse AI](https://github.com/Aman-das-dev/FinVerse-AI)** — AI-powered finance dashboard with a currency converter and AI-assisted financial insights. *React, Node.js, AI/ML*
+**Full-stack restaurant management platform**
 
-**[EcoTrack AI](https://github.com/Aman-das-dev/EcoTrack-AI)** — AI-powered sustainability platform for tracking environmental impact. *Python, Node.js, AI/ML*
+> Authentication • Restaurant Dashboard • Cart • Orders • Payments • REST APIs
 
-**[URL Shortener](https://github.com/Aman-das-dev/URL-Shortener)** — link-shortening service with analytics. *Node.js, Express.js, MongoDB*
+**Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT`
 
-**[AI Jigsaw Solver](https://github.com/Aman-das-dev/AI-Jigsaw-Solver)** — machine learning hackathon project that reassembles scrambled jigsaw pieces, reaching ~92.4% accuracy. *Python, CNN, Graph Neural Network* — 🏅 3rd place, ML Hackathon
+---
 
-<sup>Pinned-repo cards render live from the GitHub API. If a name above doesn't match your actual repo slug, update the `repo=` parameter or pin repos directly from your profile settings.</sup>
+### 💰 FinVerse AI
 
-<br/>
+**AI-powered finance dashboard**
 
-## Experience
+> Currency conversion + AI-assisted financial insights in a single application.
 
-**Backend Development Intern** — Web Bocket Software Pvt. Ltd.
-Worked on backend and full-stack development using Node.js, Express.js, and MongoDB — building REST APIs and implementing authentication.
+**Stack:** `React` `Node.js` `AI/ML`
 
-**Programming Fundamentals Intern** — IIG Varsity, Bhubaneswar
-Strengthened core programming fundamentals as a foundation for full-stack and backend development work.
+---
 
-<br/>
+### 🌱 EcoTrack AI
 
-## Certifications
+**AI-powered sustainability platform**
 
-- IBM SkillsBuild Certification
+> Designed to help track and understand environmental impact using AI/ML.
 
-<br/>
+**Stack:** `Python` `Node.js` `AI/ML`
 
-## Achievements
+---
 
-- Built 12+ software projects
-- 3rd place — Machine Learning Hackathon
-- AI Jigsaw Solver reached ~92.4% accuracy (CNN + Graph Neural Network)
-- IBM SkillsBuild Certified
+### 🔗 URL Shortener
 
-<br/>
+**Link shortening service with analytics**
 
-## Current Learning
+> Short URLs + backend API + analytics functionality.
+
+**Stack:** `Node.js` `Express.js` `MongoDB`
+
+---
+
+### 🧩 AI Jigsaw Solver
+
+**Machine learning hackathon project**
+
+> Computer vision + deep learning approach for reconstructing scrambled jigsaw pieces.
+
+**Stack:** `Python` `CNN` `Graph Neural Network`
+
+🏆 **3rd Place — ML Hackathon**
+🎯 **~92.4% reported accuracy**
+
+---
+
+# 🏆 Highlights
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/-Next.js-161b22?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=flat-square)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-161b22?style=flat-square)
-![System Design](https://img.shields.io/badge/-System%20Design-161b22?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-161b22?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-161b22?style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-161b22?style=flat-square)
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-161b22?style=flat-square)
-![DevOps](https://img.shields.io/badge/-DevOps-161b22?style=flat-square)
+|    🚀 Projects    | 🏅 Achievement |     🤖 ML     |
+| :---------------: | :------------: | :-----------: |
+|      **12+**      |  **3rd Place** |   **~92.4%**  |
+| Software Projects |  ML Hackathon  | Jigsaw Solver |
 
 </div>
 
-<br/>
+---
 
-## Goals
+# 💼 Experience
 
-- Secure a Backend/Full Stack Software Engineer role at a top product company
-- Ship production-ready applications across the MERN stack, Java, and AI/ML
-- Contribute to open-source projects with active maintainer communities
-- Go deeper on system design and cloud technologies (AWS, Docker, Kubernetes)
+### Backend Development Intern
 
-<br/>
+**Web Bocket Software Pvt. Ltd.**
 
-## Portfolio
+Worked on backend and full-stack development using:
 
-A personal portfolio site showcasing projects, skills, and experience in more depth.
+`Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `Authentication`
+
+### Programming Fundamentals Intern
+
+**IIG Varsity, Bhubaneswar**
+
+Strengthened core programming fundamentals as a foundation for full-stack and backend development.
+
+---
+
+# 🎓 Education
+
+**B.Tech — Computer Science & Engineering**
+
+GIFT Autonomous College
+**2023 – 2027**
+
+---
+
+# 📚 Currently Learning
+
+```text
+Next.js
+   ↓
+TypeScript
+   ↓
+AI / ML
+   ↓
+System Design
+   ↓
+Docker
+   ↓
+Kubernetes
+   ↓
+AWS
+   ↓
+Cloud & DevOps
+```
+
+My goal is not just to learn tools — but to understand **how production systems are designed, deployed, monitored and scaled.**
+
+---
+
+# 🧠 Engineering Philosophy
+
+> **Don't just make it work. Make it understandable, maintainable and scalable.**
+
+I focus on:
+
+* Clean and readable code
+* Meaningful API design
+* Proper database structure
+* Authentication and security
+* Reusable components
+* Scalable architecture
+* Continuous learning
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-161b22?style=flat-square&logo=googlechrome&logoColor=58a6ff)](#)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true" width="95%"/>
 
 </div>
 
-<sup align="center">Placeholder link above — swap in your live portfolio URL once deployed.</sup>
+---
 
-<br/>
-
-## Open Source
-
-Interested in contributing to projects around backend systems, developer tooling, and applied AI/ML — reach out if you're building something worth collaborating on.
+# 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars,commits,prs,issues,contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Contribution Stats"/>
+<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
-<br/>
+---
 
-## Connect With Me
+# 🎯 2026 Goals
+
+* [ ] Build more production-ready backend systems
+* [ ] Strengthen system design fundamentals
+* [ ] Build and deploy scalable full-stack applications
+* [ ] Go deeper into AWS and cloud infrastructure
+* [ ] Improve Docker & Kubernetes skills
+* [ ] Contribute to meaningful open-source projects
+* [ ] Build stronger AI/ML applications
+* [ ] Secure a Backend / Full-Stack Software Engineering role
+
+---
+
+# 🤝 Open Source & Collaboration
+
+I'm interested in collaborating on projects related to:
+
+**Backend Systems** • **Developer Tools** • **AI/ML** • **Full Stack Applications** • **Cloud**
+
+If you're building something interesting, let's connect.
+
+---
+
+# 🌐 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-das-dev)
-[![Email](https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white)](mailto:amandasdev@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-161b22?style=flat-square&logo=x&logoColor=white)](https://twitter.com/aman_das_dev)
-[![Blog](https://img.shields.io/badge/Blog-161b22?style=flat-square&logo=hashnode&logoColor=white)](https://Aman-das-dev.hashnode.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-161b22?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Aman-das-dev)
+<a href="https://linkedin.com/in/aman-das-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aman-das-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Aman-das-dev">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://Aman-das-dev.hashnode.dev">
+<img src="https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
 
 </div>
 
-<sup align="center">Placeholders above — update with your real profile URLs before publishing.</sup>
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:16213e,100:0d1117&height=120&section=footer" width="100%"/>
+### 💙 Thanks for visiting!
 
-<sub>Thanks for stopping by — <code>git commit -m "always learning"</code></sub>
+**Build something useful. Learn something new. Repeat.**
+
+```bash
+git commit -m "always learning"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:16213e,100:0d1117&height=120&section=footer"/>
 
 </div>
