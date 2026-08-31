@@ -2,169 +2,186 @@
 
 <!-- ========================================================= -->
 
-<!-- CYBERPUNK HEADER -->
+<!-- CYBERPUNK BOOT SCREEN -->
 
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:090979,70:00d4ff,100:050505&height=250&section=header&text=AMAN%20PRASAD%20DAS&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=CYBERPUNK%20DEVELOPER%20%7C%20BACKEND%20%7C%20AI%2FML&descAlignY=62&descSize=17&descColor=ff00ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,55:172554,75:06b6d4,100:020617&height=260&section=header&text=AMAN%20PRASAD%20DAS&fontSize=52&fontColor=00ffff&animation=fadeIn&fontAlignY=36&desc=BACKEND%20%2F%20FULL-STACK%20%2F%20AI%2FML&descAlignY=59&descSize=18&descColor=ff00ff" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=%5B+SYSTEM+ONLINE+%5D;BACKEND+DEVELOPER+%E2%9A%A1;FULL-STACK+ENGINEER+%F0%9F%92%BB;AI%2FML+EXPLORER+%F0%9F%A4%96;BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=21&duration=1800&pause=600&color=00FFFF&center=true&vCenter=true&width=900&height=70&lines=%5B+BOOTING+AMAN.EXE...+%5D;%5B+SYSTEM+ONLINE+%5D;%5B+DEVELOPER+MODE+ACTIVATED+%5D;%5B+WELCOME%2C+PLAYER+%5D" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=SYSTEM+VISITORS&color=00ffff&style=for-the-badge"/>
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       █████╗ ███╗   ███╗ █████╗ ███╗   ██╗                     ║
+║      ██╔══██╗████╗ ████║██╔══██╗████╗  ██║                     ║
+║      ███████║██╔████╔██║███████║██╔██╗ ██║                     ║
+║      ██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║                     ║
+║      ██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║                     ║
+║      ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                     ║
+║                                                                  ║
+║                    CYBERPUNK DEVELOPER                           ║
+║                                                                  ║
+║              [ STATUS: ONLINE ] [ XP: BUILDING ]               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=VISITORS&color=00ffff&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Aman-das-dev?label=ALLIES&style=for-the-badge&color=ff00ff&logo=github"/>
 
-<br><br>
+</div>
 
-<!-- ========================================================= -->
+---
 
-<!-- HERO GIF -->
-
-<!-- ========================================================= -->
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
-<br><br>
+# 🎮 PLAYER // AMAN
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                 ⚡ CYBERPUNK DEVELOPER ⚡                ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║     CODE        →       BUILD       →       DEPLOY       ║
-║       ↓                    ↓                    ↓        ║
-║     LEARN       ←       DEBUG       ←       SCALE        ║
-║                                                          ║
-║                 [ SYSTEM STATUS: ONLINE ]                ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                     PLAYER PROFILE                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  PLAYER       : AMAN PRASAD DAS                              ║
+║  CLASS        : SOFTWARE ENGINEER                            ║
+║  SPECIALITY   : BACKEND DEVELOPMENT                         ║
+║  SECONDARY    : FULL-STACK + AI/ML                          ║
+║  EDUCATION    : B.Tech CSE                                  ║
+║  COLLEGE      : GIFT Autonomous College                      ║
+║  PERIOD       : 2023 → 2027                                 ║
+║                                                              ║
+║  CURRENT QUEST: Become a production-ready engineer           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&width=850&height=50&lines=BACKEND+SYSTEMS+%E2%9A%A1;FULL-STACK+APPLICATIONS+%F0%9F%92%BB;AI%2FML+EXPERIMENTS+%F0%9F%A4%96;SYSTEM+DESIGN+%F0%9F%A7%A0;CLOUD+%26+DEVOPS+%E2%98%81%EF%B8%8F"/>
 
 </div>
 
 ---
 
-# 🧬 `PROFILE.EXE`
-
-```yaml
-name: Aman Prasad Das
-role: Backend / Full-Stack Developer
-education: B.Tech Computer Science & Engineering
-college: GIFT Autonomous College
-location: Odisha, India
-
-primary_stack:
-  - MERN
-  - Java
-  - Python
-  - AI/ML
-
-current_focus:
-  - Backend Engineering
-  - System Design
-  - Cloud Computing
-  - DevOps
-  - Artificial Intelligence
-
-mission:
-  "Build production-ready software that solves real problems."
-```
-
----
-
-# 🌐 `NEURAL_INTERFACE`
+# 🧬 NEURAL CORE
 
 <div align="center">
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="330"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="330"/>
 
-### 👾 WHO AM I?
+</div>
 
-I'm **Aman Prasad Das**, a Computer Science student and aspiring **Backend / Full-Stack Software Engineer**.
+I'm a **B.Tech Computer Science & Engineering student** focused on becoming a **Backend / Full-Stack Software Engineer**.
 
-I like building systems from the ground up — APIs, databases, authentication systems, dashboards, AI applications and complete full-stack products.
+I enjoy building real-world software across backend systems, full-stack applications and applied AI/ML.
 
-My development mindset:
+### My development loop
 
 ```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-SHIP 🚀
+             💡 IDEA
+                │
+                ▼
+           🧠 ARCHITECT
+                │
+                ▼
+             💻 CODE
+                │
+                ▼
+             🧪 TEST
+                │
+                ▼
+             🚀 SHIP
+                │
+                ▼
+             📊 SCALE
+                │
+                ▼
+             🔥 IMPROVE
+                │
+                └───────────────► 🔁
 ```
 
-<br clear="right"/>
+---
+
+# ⚔️ SKILL TREE
+
+<div align="center">
+
+```text
+                         👑 SOFTWARE ENGINEER
+                                  │
+                    ┌─────────────┼─────────────┐
+                    │             │             │
+                    ▼             ▼             ▼
+                ⚔️ BACKEND     🌐 FULLSTACK   🤖 AI/ML
+                    │             │             │
+              ┌─────┼─────┐   ┌───┼────┐    ┌──┼────┐
+              ▼     ▼     ▼   ▼   ▼    ▼    ▼  ▼    ▼
+             Node  API   DB  React Next Tailwind CNN GNN Python
+              │     │     │
+              └─────┼─────┘
+                    │
+                    ▼
+               ☁️ CLOUD ARC
+                    │
+              ┌─────┼─────┐
+              ▼     ▼     ▼
+           Docker  AWS  Kubernetes
+                    │
+                    ▼
+             💀 FINAL BOSS
+              SYSTEM DESIGN
+```
 
 </div>
 
 ---
 
-# ⚔️ `PLAYER_STATS`
+# 🧰 TECHNOLOGY LOADOUT
 
 <div align="center">
 
-| 🎮 Attribute       |     ⚡ Level     |
-| :----------------- | :-------------: |
-| 🧠 Problem Solving |  █████████░ 90% |
-| 💻 Backend         |  █████████░ 90% |
-| 🌐 Full Stack      |  ████████░░ 80% |
-| 🤖 AI / ML         |  ███████░░░ 70% |
-| 🗄️ Databases      |  ████████░░ 80% |
-| ☁️ Cloud           |  ██████░░░░ 60% |
-| 🏗️ System Design  |  █████░░░░░ 50% |
-| 🔥 Motivation      | ██████████ 100% |
-
-</div>
-
-> **Note:** These are profile-style self-assessment bars, not benchmark scores.
-
----
-
-# 🛸 `TECHNOLOGY_CORE`
-
-<div align="center">
-
-## ⚡ PROGRAMMING
+### ⚡ LANGUAGE MODULES
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c&perline=5"/>
 
 <br><br>
 
-## 🌐 FRONTEND
+### 🌐 FRONTEND MODULES
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6"/>
 
 <br><br>
 
-## 🧠 BACKEND
+### ⚔️ BACKEND MODULES
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2"/>
 
 <br><br>
 
-## 🗄️ DATABASE
+### 🗄️ DATABASE MODULES
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3"/>
 
 <br><br>
 
-## 🛰️ DEVOPS / CLOUD
+### ☁️ CLOUD / DEVOPS MODULES
 
 <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,linux,git,github&perline=6"/>
 
 <br><br>
 
-## 🔧 TOOLS
+### 🔧 DEVELOPER TOOLS
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,vercel,netlify&perline=4"/>
 
@@ -172,120 +189,78 @@ SHIP 🚀
 
 ---
 
-# 🎮 `MISSION_CONTROL`
+# 🎯 ACTIVE QUESTS
 
 <div align="center">
 
-```text
-                 ┌─────────────────────┐
-                 │      MISSION        │
-                 │       START         │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                   ┌────────────────┐
-                   │   💡 IDEA      │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │   🧠 DESIGN    │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │   💻 CODE      │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │   🧪 TEST      │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │   🚀 DEPLOY    │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │   📊 SCALE     │
-                   └───────┬────────┘
-                           │
-                           ▼
-                   ┌────────────────┐
-                   │   🏆 LEVEL UP  │
-                   └────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=18&duration=1800&pause=500&color=FF00FF&center=true&vCenter=true&width=850&height=50&lines=%5B+QUEST+01+%5D+BUILD+SCALABLE+BACKENDS;%5B+QUEST+02+%5D+MASTER+SYSTEM+DESIGN;%5B+QUEST+03+%5D+LEVEL+UP+AWS;%5B+QUEST+04+%5D+ADVANCED+AI%2FML;%5B+QUEST+05+%5D+OPEN+SOURCE"/>
 
 </div>
 
 ---
 
-# 🔥 `ACTIVE_MISSIONS`
+# 🚀 QUEST LOG // PROJECTS
+
+## 🟢 QUEST COMPLETE — `TASTEBITE`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=850&height=50&lines=%5B+MISSION+01+%5D+MASTER+SYSTEM+DESIGN;%5B+MISSION+02+%5D+BUILD+SCALABLE+BACKENDS;%5B+MISSION+03+%5D+LEVEL+UP+AWS+%26+CLOUD;%5B+MISSION+04+%5D+ADVANCED+AI%2FML;%5B+MISSION+05+%5D+OPEN+SOURCE+%26+COLLABORATION" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=TasteBite&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00ffff&text_color=c9d1d9"/>
 
 </div>
 
----
-
-# 🚀 `PROJECT_DATABASE`
-
-## 🍽️ `TASTEBITE.exe`
-
-### Full-Stack Restaurant Management Platform
+### 🍽️ Full-Stack Restaurant Management Platform
 
 ```text
-┌─────────────────────────────────────────────┐
-│                  TASTEBITE                   │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🔐 Authentication                          │
-│  🍔 Restaurant Dashboard                    │
-│  🛒 Cart System                             │
-│  📦 Order Management                        │
-│  💳 Payments                                │
-│  🔌 REST APIs                               │
-│                                             │
-└─────────────────────────────────────────────┘
+AUTHENTICATION
+      ↓
+RESTAURANT DASHBOARD
+      ↓
+MENU / PRODUCTS
+      ↓
+CART
+      ↓
+ORDERS
+      ↓
+PAYMENTS
 ```
 
-**Stack**
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
 
-`React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-00ffff?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Aman-das-dev/TasteBite)
+[![OPEN QUEST](https://img.shields.io/badge/OPEN_QUEST-00ffff?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Aman-das-dev/TasteBite)
 
 ---
 
-## 💰 `FINVERSE_AI.exe`
+## 🟣 QUEST COMPLETE — `FINVERSE AI`
 
-### AI-Powered Finance Dashboard
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=FinVerse-AI&theme=tokyonight&hide_border=true&bg_color=020617&title_color=ff00ff&text_color=c9d1d9"/>
+
+</div>
+
+### 💰 AI Finance Dashboard
 
 ```text
-USER
- │
- ├── 💱 Currency Conversion
- │
- ├── 📊 Financial Dashboard
- │
- └── 🤖 AI Financial Insights
+             USER
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+   CURRENCY        AI ENGINE
+   CONVERTER          │
+       │              ▼
+       └──────► FINANCIAL INSIGHTS
 ```
 
-**Stack**
+**Tech:** `React` `Node.js` `AI/ML`
 
-`React` `Node.js` `AI/ML`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-ff00ff?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aman-das-dev/FinVerse-AI)
+[![OPEN QUEST](https://img.shields.io/badge/OPEN_QUEST-ff00ff?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aman-das-dev/FinVerse-AI)
 
 ---
 
-## 🌱 `ECOTRACK_AI.exe`
+## 🔵 QUEST COMPLETE — `ECOTRACK AI`
 
-### AI-Powered Sustainability Platform
+### 🌱 AI Sustainability Platform
 
 ```text
 ENVIRONMENTAL DATA
@@ -297,22 +272,20 @@ ENVIRONMENTAL DATA
    SMART INSIGHTS
 ```
 
-**Stack**
+**Tech:** `Python` `Node.js` `AI/ML`
 
-`Python` `Node.js` `AI/ML`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-00ffff?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Aman-das-dev/EcoTrack-AI)
+[![OPEN QUEST](https://img.shields.io/badge/OPEN_QUEST-00ffff?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Aman-das-dev/EcoTrack-AI)
 
 ---
 
-## 🔗 `URL_SHORTENER.exe`
+## 🟡 QUEST COMPLETE — `URL SHORTENER`
 
-### Analytics-Enabled Link Shortening System
+### 🔗 Analytics-Enabled URL System
 
 ```text
 LONG URL
    ↓
-API
+BACKEND API
    ↓
 SHORT URL
    ↓
@@ -321,71 +294,57 @@ REDIRECT
 ANALYTICS
 ```
 
-**Stack**
+**Tech:** `Node.js` `Express.js` `MongoDB`
 
-`Node.js` `Express.js` `MongoDB`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-ff00ff?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aman-das-dev/URL-Shortener)
+[![OPEN QUEST](https://img.shields.io/badge/OPEN_QUEST-ff00ff?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aman-das-dev/URL-Shortener)
 
 ---
 
-# 🤖 `AI_LAB`
+# 🤖 AI LAB // EXPERIMENT 01
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="430"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=700&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=AI+SYSTEM+INITIALIZING...;COMPUTER+VISION+ONLINE;CNN+MODULE+LOADED;GRAPH+NEURAL+NETWORK+LOADED;MODEL+READY+%F0%9F%A4%96"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=1700&pause=600&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=NEURAL+NETWORK+ONLINE;COMPUTER+VISION+ONLINE;CNN+MODULE+ONLINE;GRAPH+NEURAL+NETWORK+ONLINE;MODEL+READY+%F0%9F%A4%96"/>
 
 </div>
 
----
+## 🧩 AI Jigsaw Solver
 
-## 🧩 `AI_JIGSAW_SOLVER`
-
-A machine-learning hackathon project designed to reconstruct scrambled jigsaw pieces.
-
-### ⚙️ Architecture
+Machine-learning project for reconstructing scrambled jigsaw pieces.
 
 ```text
-IMAGE
-  ↓
+SCRAMBLED IMAGE
+       ↓
 PREPROCESSING
-  ↓
-CNN
-  ↓
-FEATURE EXTRACTION
-  ↓
+       ↓
+CNN FEATURE EXTRACTION
+       ↓
 GRAPH NEURAL NETWORK
-  ↓
-PIECE RELATIONSHIP
-  ↓
+       ↓
+PIECE RELATIONSHIPS
+       ↓
 RECONSTRUCTED PUZZLE
 ```
 
-### 🏆 Achievement
-
 <div align="center">
 
-# 🥉 3RD PLACE
+### 🥉 3RD PLACE — ML HACKATHON
 
-### Machine Learning Hackathon
-
-**~92.4% reported accuracy**
+### 🎯 ~92.4% REPORTED ACCURACY
 
 </div>
 
-**Stack**
+**Tech:** `Python` `CNN` `Graph Neural Network`
 
-`Python` `CNN` `Graph Neural Network`
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-00ffff?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Aman-das-dev/AI-Jigsaw-Solver)
+[![OPEN QUEST](https://img.shields.io/badge/OPEN_QUEST-00ffff?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Aman-das-dev/AI-Jigsaw-Solver)
 
 ---
 
-# 👹 `ANIME_TRAINING_ARC`
+# 👹 ANIME TRAINING ARC
 
 <div align="center">
 
@@ -395,184 +354,184 @@ RECONSTRUCTED PUZZLE
 
 <br><br>
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=19&duration=2300&pause=700&color=FF00FF&center=true&vCenter=true&width=850&height=50&lines=TRAINING+ARC%3A+SYSTEM+DESIGN;TRAINING+ARC%3A+TYPESCRIPT;TRAINING+ARC%3A+CLOUD;TRAINING+ARC%3A+AI%2FML;FINAL+FORM%3A+SOFTWARE+ENGINEER+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=19&duration=1700&pause=600&color=FF00FF&center=true&vCenter=true&width=850&height=50&lines=TRAINING+ARC%3A+BACKEND;%5B+POWER+UP+%5D+TYPESCRIPT;%5B+POWER+UP+%5D+SYSTEM+DESIGN;%5B+POWER+UP+%5D+AWS;%5B+POWER+UP+%5D+AI%2FML"/>
 
 </div>
 
+```text
+╔════════════════════════════════════════════════════╗
+║                  TRAINING ARC                      ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  ⚔️ BACKEND             █████████░░  Lv. 09       ║
+║  🌐 FULL STACK          ████████░░░  Lv. 08       ║
+║  🤖 AI / ML             ███████░░░░  Lv. 07       ║
+║  ☁️ CLOUD               ██████░░░░░  Lv. 06       ║
+║  🧠 SYSTEM DESIGN       █████░░░░░░  Lv. 05       ║
+║                                                    ║
+║             TRAINING NEVER ENDS                   ║
+╚════════════════════════════════════════════════════╝
+```
+
 ---
 
-# 🎮 `GAMER_MODE`
+# 🏆 ACHIEVEMENT VAULT
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/11YM3H4Zs5j3dK/giphy.gif" width="450"/>
-
-<br><br>
-
 ```text
-╔════════════════════════════════════════════════╗
-║                🎮 PLAYER PROFILE               ║
-╠════════════════════════════════════════════════╣
-║                                                ║
-║  PLAYER       : AMAN                           ║
-║  CLASS        : SOFTWARE ENGINEER             ║
-║  SPECIALITY   : BACKEND                       ║
-║                                                ║
-║  ⚔️ BACKEND       █████████░ 90%              ║
-║  💻 FULL STACK    ████████░░ 80%              ║
-║  🤖 AI / ML       ███████░░░ 70%              ║
-║  ☁️ CLOUD         ██████░░░░ 60%              ║
-║                                                ║
-║  ❤️ MOTIVATION   ██████████ 100%              ║
-║                                                ║
-║  CURRENT BOSS    : SYSTEM DESIGN              ║
-║                                                ║
-╚════════════════════════════════════════════════╝
+╭────────────────────────────────────────────╮
+│ 🏆 ACHIEVEMENT UNLOCKED                    │
+│                                            │
+│ PROJECT ARCHITECT                           │
+│ Built 12+ software projects                │
+╰────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────╮
+│ 🥉 RARE ACHIEVEMENT                        │
+│                                            │
+│ ML WARRIOR                                 │
+│ 3rd Place — Machine Learning Hackathon     │
+╰────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────╮
+│ 🤖 AI ACHIEVEMENT                          │
+│                                            │
+│ PUZZLE MASTER                               │
+│ ~92.4% reported accuracy                   │
+╰────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────╮
+│ 📜 CERTIFICATION                            │
+│                                            │
+│ IBM SKILLSBUILD                            │
+│ Certified                                  │
+╰────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-# 💼 `EXPERIENCE.LOG`
+# 💼 EXPERIENCE // MEMORY LOG
 
-### 🔧 Backend Development Intern
+### 🔧 `BACKEND_DEVELOPMENT.INTERN`
 
 **Web Bocket Software Pvt. Ltd.**
 
 ```text
-Node.js
+NODE.JS
    +
-Express.js
+EXPRESS.JS
    +
-MongoDB
+MONGODB
    +
 REST APIs
    +
-Authentication
+AUTHENTICATION
 ```
 
 Worked on backend and full-stack development, including REST APIs, authentication and database integration.
 
 ---
 
-### 💻 Programming Fundamentals Intern
+### 💻 `PROGRAMMING_FUNDAMENTALS.INTERN`
 
 **IIG Varsity, Bhubaneswar**
 
-Strengthened programming fundamentals as a foundation for full-stack and backend development.
+Strengthened programming fundamentals as a foundation for backend and full-stack development.
 
 ---
 
-# 🎓 `EDUCATION.DATA`
+# 🎓 EDUCATION // ORIGIN STORY
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════╗
-║             🎓 EDUCATION                 ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  Degree    : B.Tech CSE                  ║
-║  College   : GIFT Autonomous College     ║
-║  Duration  : 2023 → 2027                 ║
-║  Region    : Odisha, India               ║
-║                                          ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║                  ORIGIN                      ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  🎓 B.Tech Computer Science & Engineering   ║
+║                                              ║
+║  🏫 GIFT Autonomous College                 ║
+║                                              ║
+║  📅 2023 ────────────────────────► 2027     ║
+║                                              ║
+║  🌏 Odisha, India                            ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-# 🏆 `ACHIEVEMENT_UNLOCKED`
+# 📚 LOADING NEXT SKILLS...
 
 <div align="center">
 
-| 🏆 Achievement    |      Result      |
-| :---------------- | :--------------: |
-| Software Projects |      **12+**     |
-| ML Hackathon      | **🥉 3rd Place** |
-| AI Jigsaw Solver  |    **~92.4%**    |
-| IBM SkillsBuild   |   **Certified**  |
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=19&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=850&height=60&lines=%5B+DOWNLOADING+NEXT+SKILLS...+%5D;NEXT.JS+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;TYPESCRIPT+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;SYSTEM+DESIGN+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91;DOCKER+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;KUBERNETES+%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91;AWS+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91;DEVOPS+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91"/>
 
 </div>
 
 ---
 
-# 📚 `CURRENTLY_LOADING...`
+# 💀 CURRENT BOSS BATTLE
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=600&color=00FFFF&center=true&vCenter=true&width=850&height=55&lines=%5B+LOADING+SKILLS...+%5D;NEXT.JS+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;TYPESCRIPT+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;SYSTEM+DESIGN+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91;DOCKER+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;KUBERNETES+%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91;AWS+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91;AI%2FML+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91"/>
-
-</div>
-
----
-
-# 🧠 `ENGINEERING_PHILOSOPHY`
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="420"/>
-
-<br><br>
-
-### `"Don't just make it work."`
-
-### `"Make it understandable."`
-
-### `"Make it maintainable."`
-
-### `"Make it scalable."`
-
-<br>
 
 ```text
-                 CLEAN CODE
-                     │
-                     ▼
-              GOOD ARCHITECTURE
-                     │
-                     ▼
-             STRONG FUNDAMENTALS
-                     │
-                     ▼
-             CONTINUOUS LEARNING
-                     │
-                     ▼
-              PRODUCTION SOFTWARE
+╔══════════════════════════════════════════════════════╗
+║                    ⚠️ BOSS DETECTED                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║                 🧠 SYSTEM DESIGN                    ║
+║                                                      ║
+║          ████████████████████████████                ║
+║          BOSS HP: 100%                               ║
+║                                                      ║
+║  WEAKNESSES:                                         ║
+║                                                      ║
+║  ⚔️ Data Structures                                 ║
+║  ⚔️ Databases                                       ║
+║  ⚔️ APIs                                            ║
+║  ⚔️ Caching                                         ║
+║  ⚔️ Distributed Systems                             ║
+║  ⚔️ Cloud                                            ║
+║                                                      ║
+║               STATUS: TRAINING...                    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="430"/>
 
 </div>
 
 ---
 
-# 📊 `SYSTEM_ANALYTICS`
+# 📊 SYSTEM TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=050505&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true&background=050505&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00ffff&text_color=c9d1d9&langs_count=10" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true&background=020617&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night&hide_border=true&bg_color=050505&color=00ffff&line=ff00ff&point=ffffff&area=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00ffff&text_color=c9d1d9&langs_count=10" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night&hide_border=true&bg_color=020617&color=00ffff&line=ff00ff&point=ffffff&area=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🐍 `CONTRIBUTION_MATRIX`
+# 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -580,61 +539,112 @@ Strengthened programming fundamentals as a foundation for full-stack and backend
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&height=40&lines=EVERY+COMMIT+%3D+XP;EVERY+BUG+%3D+LESSON;EVERY+PROJECT+%3D+LEVEL+UP;KEEP+BUILDING+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=17&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=750&height=45&lines=COMMIT+%3D+XP;BUG+%3D+LESSON;PROJECT+%3D+NEW+LEVEL;CONSISTENCY+%3D+POWER;KEEP+SHIPPING+%F0%9F%94%A5"/>
 
 </div>
 
 ---
 
-# 🗺️ `2026_ROADMAP`
+# 🗺️ 2026 QUEST MAP
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                  🚀 2026 ROADMAP                  ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  [✓] Backend Development                         ║
-║  [✓] Full-Stack Projects                         ║
-║  [✓] AI/ML Project                               ║
-║                                                  ║
-║  [ ] Advanced System Design                      ║
-║  [ ] AWS & Cloud                                  ║
-║  [ ] Docker & Kubernetes                         ║
-║  [ ] Open Source Contributions                   ║
-║  [ ] Advanced AI Applications                    ║
-║  [ ] Production-Scale Systems                   ║
-║                                                  ║
-║              FINAL BOSS:                         ║
-║       SOFTWARE ENGINEERING 🚀                    ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+                    🚀 START
+                       │
+                       ▼
+              ┌────────────────┐
+              │ Backend Mastery│
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │ System Design  │
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │ Docker / Cloud │
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │   AWS / K8s    │
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │ Advanced AI/ML │
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │  OPEN SOURCE   │
+              └───────┬────────┘
+                      │
+                      ▼
+                👑 FINAL FORM
+              SOFTWARE ENGINEER
 ```
 
 </div>
 
 ---
 
-# 🌌 `OPEN_SOURCE_PROTOCOL`
+# 🎮 GAMING MODE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=800&height=50&lines=%5B+OPEN+SOURCE+MODE+%5D;BACKEND+SYSTEMS;DEVELOPER+TOOLS;AI%2FML;FULL-STACK;CLOUD+%26+DEVOPS"/>
+<img src="https://media.giphy.com/media/11YM3H4Zs5j3dK/giphy.gif" width="450"/>
 
 <br><br>
 
-Interested in collaborating on projects involving:
-
-**Backend Systems** • **Developer Tools** • **AI/ML** • **Full Stack** • **Cloud**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=1700&pause=600&color=FF00FF&center=true&vCenter=true&width=850&height=55&lines=INSERT+COFFEE+%E2%98%95;PRESS+ENTER+TO+CODE;BOSS+FIGHT+STARTED;DEBUGGING...;%5B+VICTORY+%F0%9F%8F%86+%5D"/>
 
 </div>
 
 ---
 
-# 📡 `CONNECT`
+# 🧠 ENGINEERING PROTOCOL
 
 <div align="center">
+
+> ### **MAKE IT WORK.**
+>
+> ### **MAKE IT CLEAN.**
+>
+> ### **MAKE IT SCALE.**
+
+```text
+       FUNDAMENTALS
+            │
+            ▼
+        CLEAN CODE
+            │
+            ▼
+       GOOD DESIGN
+            │
+            ▼
+      TEST EVERYTHING
+            │
+            ▼
+       SHIP SOFTWARE
+            │
+            ▼
+        LEARN MORE
+```
+
+</div>
+
+---
+
+# 🌐 CONNECT // OPEN CHANNEL
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=00FFFF&center=true&vCenter=true&width=800&height=45&lines=%5B+CONNECTION+PROTOCOL+OPEN+%5D;%5B+LOOKING+FOR+INTERESTING+PROJECTS+%5D;%5B+OPEN+TO+COLLABORATION+%5D"/>
+
+<br><br>
 
 <a href="https://github.com/Aman-das-dev">
 <img src="https://img.shields.io/badge/GITHUB-00ffff?style=for-the-badge&logo=github&logoColor=black"/>
@@ -656,15 +666,15 @@ Interested in collaborating on projects involving:
 
 ---
 
-# 👾 `FINAL_BOSS`
+# 👾 FINAL BOSS // `AMAN.EXE`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="500"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=2300&pause=700&color=00FFFF&center=true&vCenter=true&width=850&height=60&lines=SYSTEM+STATUS%3A+ONLINE;BUGS+DETECTED%3A+INFINITE;COFFEE+LEVEL%3A+MAXIMUM;MOTIVATION%3A+100%25;MISSION%3A+BECOME+A+GREAT+ENGINEER+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=900&size=21&duration=1600&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=65&lines=SYSTEM+STATUS%3A+ONLINE;BUGS%3A+INFINITE;COFFEE%3A+MAXIMUM;MOTIVATION%3A+100%25;MISSION%3A+BECOME+A+GREAT+ENGINEER;%5B+CONTINUE%3F+Y%2FN+%5D+Y"/>
 
 <br><br>
 
@@ -672,22 +682,32 @@ Interested in collaborating on projects involving:
 $ whoami
 aman-prasad-das
 
-$ mission
+$ class
+backend-fullstack-ai-engineer
+
+$ current_mission
 build_the_future
+
+$ boss
+system_design
 
 $ status
 always_learning
 
 $ exit
-# not today 🚀
+not_today.exe
 ```
 
 <br>
 
-### ⚡ `CODE. BUILD. BREAK. FIX. LEVEL UP.` ⚡
+### ⚡ `CODE` • `BUILD` • `BREAK` • `FIX` • `LEVEL UP` ⚡
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:090979,70:00d4ff,100:050505&height=170&section=footer&animation=fadeIn" width="100%"/>
+<sub>© 2026 Aman Prasad Das • Built with code, curiosity & caffeine ☕</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:172554,60:06b6d4,80:7c3aed,100:020617&height=180&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
