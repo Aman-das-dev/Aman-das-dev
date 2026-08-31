@@ -1,111 +1,188 @@
 <div align="center">
 
-# 👋 Hi, I'm Aman Prasad Das
+<!-- ===================== HEADER ===================== -->
 
-### Backend Developer • Full-Stack Engineer • AI/ML Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:2563eb&height=230&section=header&text=Aman%20Prasad%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%2FML%20Explorer&descAlignY=60&descSize=17&descColor=93c5fd" width="100%"/>
 
-**I build scalable backend systems, full-stack applications, and practical AI-powered products.**
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=80&lines=Building+Scalable+Backend+Systems;Creating+Full-Stack+MERN+Applications;Exploring+AI+%26+Machine+Learning;Learning+System+Design+%26+Cloud;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
 
-<a href="https://github.com/Aman-das-dev">
-<img src="https://img.shields.io/badge/GitHub-Aman--das--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/aman-das-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="#-connect">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-238636?style=for-the-badge"/>
-</a>
+<br>
 
-<br/><br/>
+<!-- ===================== BADGES ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Creating+full-stack+MERN+applications;Exploring+AI%2FML+in+real-world+products;Learning+System+Design+%26+Cloud;Always+building%2C+learning%2C+improving." />
+<img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Aman-das-dev?label=FOLLOWERS&style=for-the-badge&color=161b22&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Aman-das-dev?label=STARS&style=for-the-badge&color=161b22&logo=github"/>
+
+<br><br>
+
+<!-- ===================== CODING GIF ===================== -->
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430"/>
+
+<br><br>
+
+### ⚡ `Code → Build → Test → Deploy → Learn → Repeat`
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering student at GIFT Autonomous College**, currently working toward becoming a **Backend / Full-Stack Software Engineer**.
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
-I enjoy turning ideas into working software — from designing REST APIs and database systems to building complete web applications and experimenting with AI/ML.
+I'm **Aman Prasad Das**, a B.Tech Computer Science & Engineering student at **GIFT Autonomous College**, Odisha.
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    AMAN PRASAD DAS                       │
-├──────────────────────────────────────────────────────────┤
-│ 🎯 Focus       Backend & Full-Stack Development          │
-│ ⚙️ Stack       MERN • Java • Python • AI/ML              │
-│ 🧠 Learning    System Design • Cloud • DevOps            │
-│ 🚀 Goal        Production-ready software                 │
-│ 🌱 Mindset     Build → Learn → Improve → Repeat          │
-└──────────────────────────────────────────────────────────┘
-```
+I'm focused on becoming a **Backend / Full-Stack Software Engineer** and enjoy building real-world applications using modern technologies.
 
-### Currently focused on
+I work across:
 
-* 🔧 Building production-oriented backend systems
-* 🌐 Developing full-stack MERN applications
-* 🤖 Exploring practical AI/ML applications
-* 🏗️ Learning system design and scalable architecture
-* ☁️ Exploring AWS, Docker, Kubernetes and cloud technologies
-* 🤝 Preparing for Backend / Full-Stack Software Engineering roles
+* 🛠️ Backend development
+* 🌐 Full-stack development
+* 🤖 AI / Machine Learning
+* 🗄️ Database systems
+* 🔐 Authentication & APIs
+* ☁️ Cloud & DevOps
+* 🏗️ System Design
+
+<br clear="right"/>
 
 ---
 
-# ⚡ What I Build
+# 🚀 What I Build
 
-| Area            | What I work on                            |
-| --------------- | ----------------------------------------- |
-| 🛠️ Backend     | REST APIs, authentication, business logic |
-| 🌐 Full Stack   | MERN applications and dashboards          |
-| 🗄️ Databases   | MongoDB, MySQL, SQL                       |
-| 🤖 AI/ML        | Applied machine learning projects         |
-| 🔐 Security     | JWT authentication and API protection     |
-| ☁️ Cloud        | Docker, AWS and deployment workflows      |
-| 🧩 Architecture | Clean, maintainable and scalable systems  |
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 🛠️
+
+### Backend
+
+REST APIs
+Authentication
+Business Logic
+Database Design
+
+</td>
+
+<td width="25%" align="center">
+
+## 🌐
+
+### Full Stack
+
+React
+Node.js
+Express
+MongoDB
+
+</td>
+
+<td width="25%" align="center">
+
+## 🤖
+
+### AI / ML
+
+Machine Learning
+Computer Vision
+AI Applications
+Deep Learning
+
+</td>
+
+<td width="25%" align="center">
+
+## ☁️
+
+### Cloud
+
+Docker
+AWS
+Kubernetes
+Deployment
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 🧰 Tech Arsenal
 
+<div align="center">
+
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,sql&perline=6"/>
+
+<br><br>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6"/>
 
-### Backend
+<br><br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+### Backend & Database
 
-### Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&perline=5"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+<br><br>
 
-### Tools & Deployment
+### Tools & Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,kubernetes,vercel,netlify,linux&perline=10"/>
+
+</div>
+
+---
+
+# 💻 My Development Workflow
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=800&height=50&lines=Idea+%F0%9F%92%A1;Design+%F0%9F%A7%A0;Code+%F0%9F%92%BB;Test+%F0%9F%A7%AA;Deploy+%F0%9F%9A%80;Monitor+%F0%9F%93%8A;Improve+%E2%9C%A8" />
+
+<br><br>
+
+```text
+        💡 IDEA
+           │
+           ▼
+      🧠 DESIGN
+           │
+           ▼
+       💻 CODE
+           │
+           ▼
+       🧪 TEST
+           │
+           ▼
+      🚀 DEPLOY
+           │
+           ▼
+      📊 MONITOR
+           │
+           ▼
+      ✨ IMPROVE
+           │
+           └──────────────► 🔁
+```
+
+</div>
 
 ---
 
@@ -121,69 +198,164 @@ I enjoy turning ideas into working software — from designing REST APIs and dat
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=FinVerse-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </a>
 
+<br>
+
+<a href="https://github.com/Aman-das-dev/EcoTrack-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=EcoTrack-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</a>
+
+<a href="https://github.com/Aman-das-dev/URL-Shortener">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-das-dev&repo=URL-Shortener&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</a>
+
 </div>
-
-### 🍽️ TasteBite
-
-**Full-stack restaurant management platform**
-
-> Authentication • Restaurant Dashboard • Cart • Orders • Payments • REST APIs
-
-**Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
-### 💰 FinVerse AI
+## 🍽️ TasteBite
+
+**Full-Stack Restaurant Management Platform**
+
+```text
+Authentication
+     │
+     ├── Restaurant Dashboard
+     │
+     ├── Product / Menu Management
+     │
+     ├── Cart
+     │
+     ├── Order Management
+     │
+     └── Payments
+```
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+
+---
+
+## 💰 FinVerse AI
 
 **AI-powered finance dashboard**
 
-> Currency conversion + AI-assisted financial insights in a single application.
+Features:
 
-**Stack:** `React` `Node.js` `AI/ML`
+* 💱 Currency converter
+* 🤖 AI-assisted financial insights
+* 📊 Financial dashboard
+* 🌐 Full-stack architecture
+
+**Tech:** `React` `Node.js` `AI/ML`
 
 ---
 
-### 🌱 EcoTrack AI
+## 🌱 EcoTrack AI
 
 **AI-powered sustainability platform**
 
-> Designed to help track and understand environmental impact using AI/ML.
+Designed around tracking and understanding environmental impact using AI/ML.
 
-**Stack:** `Python` `Node.js` `AI/ML`
+**Tech:** `Python` `Node.js` `AI/ML`
 
 ---
 
-### 🔗 URL Shortener
+## 🔗 URL Shortener
 
 **Link shortening service with analytics**
 
-> Short URLs + backend API + analytics functionality.
+```text
+Long URL
+   ↓
+Backend API
+   ↓
+Short URL
+   ↓
+Redirect
+   ↓
+Analytics
+```
 
-**Stack:** `Node.js` `Express.js` `MongoDB`
+**Tech:** `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 🧩 AI Jigsaw Solver
+## 🧩 AI Jigsaw Solver
 
-**Machine learning hackathon project**
+Machine-learning project for reconstructing scrambled jigsaw pieces.
 
-> Computer vision + deep learning approach for reconstructing scrambled jigsaw pieces.
+**Tech:**
 
-**Stack:** `Python` `CNN` `Graph Neural Network`
+`Python` `CNN` `Graph Neural Network`
 
 🏆 **3rd Place — ML Hackathon**
+
 🎯 **~92.4% reported accuracy**
 
 ---
 
-# 🏆 Highlights
+# 🤖 AI / ML Zone
 
 <div align="center">
 
-|    🚀 Projects    | 🏅 Achievement |     🤖 ML     |
-| :---------------: | :------------: | :-----------: |
-|      **12+**      |  **3rd Place** |   **~92.4%**  |
-| Software Projects |  ML Hackathon  | Jigsaw Solver |
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Machine+Learning;Computer+Vision;CNN;Graph+Neural+Networks;AI-Powered+Applications"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🚀
+
+**12+**
+
+Software Projects
+
+</td>
+
+<td align="center">
+
+### 🏆
+
+**3rd Place**
+
+ML Hackathon
+
+</td>
+
+<td align="center">
+
+### 🎯
+
+**~92.4%**
+
+Jigsaw Accuracy
+
+</td>
+
+<td align="center">
+
+### 📜
+
+**IBM**
+
+SkillsBuild Certified
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -191,7 +363,7 @@ I enjoy turning ideas into working software — from designing REST APIs and dat
 
 # 💼 Experience
 
-### Backend Development Intern
+### 🔧 Backend Development Intern
 
 **Web Bocket Software Pvt. Ltd.**
 
@@ -199,72 +371,79 @@ Worked on backend and full-stack development using:
 
 `Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `Authentication`
 
-### Programming Fundamentals Intern
+---
+
+### 💻 Programming Fundamentals Intern
 
 **IIG Varsity, Bhubaneswar**
 
-Strengthened core programming fundamentals as a foundation for full-stack and backend development.
+Strengthened core programming fundamentals as a foundation for backend and full-stack development.
 
 ---
 
 # 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
+<div align="center">
 
-GIFT Autonomous College
-**2023 – 2027**
+### B.Tech — Computer Science & Engineering
+
+**GIFT Autonomous College**
+
+`2023 — 2027`
+
+📍 Odisha, India
+
+</div>
 
 ---
 
 # 📚 Currently Learning
 
-```text
-Next.js
-   ↓
-TypeScript
-   ↓
-AI / ML
-   ↓
-System Design
-   ↓
-Docker
-   ↓
-Kubernetes
-   ↓
-AWS
-   ↓
-Cloud & DevOps
-```
+<div align="center">
 
-My goal is not just to learn tools — but to understand **how production systems are designed, deployed, monitored and scaled.**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=700&color=F59E0B&center=true&vCenter=true&width=800&height=50&lines=Next.js;TypeScript;AI%2FML;System+Design;Docker;Kubernetes;AWS;Cloud+Computing;DevOps"/>
+
+</div>
 
 ---
 
 # 🧠 Engineering Philosophy
 
-> **Don't just make it work. Make it understandable, maintainable and scalable.**
+<div align="center">
 
-I focus on:
+> ### **"Don't just make it work. Make it understandable, maintainable and scalable."**
 
-* Clean and readable code
-* Meaningful API design
-* Proper database structure
-* Authentication and security
-* Reusable components
-* Scalable architecture
-* Continuous learning
+<br>
+
+```text
+Clean Code
+    +
+Good Architecture
+    +
+Strong Fundamentals
+    +
+Continuous Learning
+    =
+Better Software 🚀
+```
+
+</div>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
 
-<br/><br/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="180"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true" width="95%"/>
 
@@ -272,49 +451,80 @@ I focus on:
 
 ---
 
-# 🐍 Contribution Journey
+# 🐍 Contribution Animation
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Every+commit+counts.;Keep+building.;Keep+learning.;Keep+shipping.%F0%9F%9A%80"/>
+
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Mission
 
-* [ ] Build more production-ready backend systems
-* [ ] Strengthen system design fundamentals
-* [ ] Build and deploy scalable full-stack applications
-* [ ] Go deeper into AWS and cloud infrastructure
-* [ ] Improve Docker & Kubernetes skills
-* [ ] Contribute to meaningful open-source projects
-* [ ] Build stronger AI/ML applications
-* [ ] Secure a Backend / Full-Stack Software Engineering role
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                 🚀 2026 ROADMAP              ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  ✅ Build production-ready applications      ║
+║  ✅ Strengthen backend development            ║
+║  ⬜ Master System Design                     ║
+║  ⬜ Build scalable cloud systems             ║
+║  ⬜ Deep dive into AWS                       ║
+║  ⬜ Improve Docker & Kubernetes              ║
+║  ⬜ Contribute to Open Source                ║
+║  ⬜ Build advanced AI applications           ║
+║  ⬜ Become a stronger software engineer      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-# 🤝 Open Source & Collaboration
+# 🌟 What I'm Looking For
 
-I'm interested in collaborating on projects related to:
+<div align="center">
 
-**Backend Systems** • **Developer Tools** • **AI/ML** • **Full Stack Applications** • **Cloud**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=800&height=50&lines=Backend+Engineering;Full-Stack+Development;AI%2FML+Projects;Open+Source+Collaboration;Product+Engineering+Opportunities"/>
+
+<br><br>
+
+**I'm open to internships, collaborations and opportunities where I can build real products and grow as a software engineer.**
+
+</div>
+
+---
+
+# 🤝 Open Source
+
+Interested in contributing to projects around:
+
+`Backend Systems` • `Developer Tools` • `AI/ML` • `Full Stack` • `Cloud`
 
 If you're building something interesting, let's connect.
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/aman-das-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Aman-das-dev">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aman-das-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/Aman-das-dev">
@@ -322,23 +532,27 @@ If you're building something interesting, let's connect.
 </a>
 
 <a href="https://Aman-das-dev.hashnode.dev">
-<img src="https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### 💙 Thanks for visiting my profile!
 
-**Build something useful. Learn something new. Repeat.**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Build+something+useful.;Learn+something+new.;Make+something+better.;Repeat.+%F0%9F%94%A5"/>
+
+<br><br>
 
 ```bash
 git commit -m "always learning"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:16213e,100:0d1117&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:16213e,100:0d1117&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
