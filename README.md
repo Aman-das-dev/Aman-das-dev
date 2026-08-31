@@ -2,7 +2,7 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:2563eb&height=230&section=header&text=Aman%20Prasad%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%2FML%20Explorer&descAlignY=60&descSize=17&descColor=93c5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:2563eb&height=230&section=header&text=Aman%20Prasad%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc= width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 
