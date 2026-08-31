@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
+<!-- ==================== HEADER ==================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:2563eb&height=220&section=header&text=Aman%20Prasad%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Learner&descAlignY=60&descSize=16&descColor=93c5fd" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Aman+%F0%9F%91%8B;I+love+building+things+with+code+%F0%9F%92%BB;Backend+%7C+MERN+%7C+AI%2FML;Learning+Something+New+Every+Day+%F0%9F%9A%80;Welcome+to+my+GitHub!"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Aman+%F0%9F%91%8B;I+love+building+things+with+code+%F0%9F%92%BB;Backend+%7C+MERN+%7C+AI%2FML;Always+learning+something+new+%F0%9F%9A%80"/>
 
 <br>
 
@@ -14,9 +14,7 @@
 
 <br><br>
 
-<!-- CODING GIF -->
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="./assets/coding.gif" width="420" alt="Coding animation">
 
 </div>
 
@@ -24,64 +22,64 @@
 
 # 👋 About Me
 
-<img align="right" src="https://pbs.twimg.com/media/GLnCvwtWEAAqIkY.jpg" width="250"/>
+<div align="center">
+
+<img src="./assets/anime-banner.gif" width="500" alt="Anime banner">
+
+</div>
 
 Hi! I'm **Aman Prasad Das**.
 
-I'm a **B.Tech Computer Science & Engineering student** at **GIFT Autonomous College**.
+I'm a **B.Tech Computer Science & Engineering student at GIFT Autonomous College**.
 
-I enjoy learning programming, building projects and exploring new technologies.
+I enjoy learning programming, creating projects and exploring new technologies.
 
-### 💻 I like working with
+### 💻 I Like
 
-- Backend Development
-- Full-Stack Development
-- React
-- Node.js
-- MongoDB
-- Python
-- Java
-- AI / Machine Learning
+* Backend Development
+* Full-Stack Development
+* React
+* Node.js
+* MongoDB
+* Python
+* Java
+* AI / Machine Learning
 
-### 🎯 My goal
+### 🎯 My Goal
 
-To become a better software developer by:
-
-**Learning → Building → Practicing → Improving**
-
-<br clear="right"/>
+**Learn → Build → Practice → Improve**
 
 ---
 
-# 🛠️ My Skills
+# 🛠️ Skills
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c&perline=5"/>
 
 <br><br>
 
-### 🌐 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6"/>
 
 <br><br>
 
-### ⚙️ Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2"/>
 
 <br><br>
 
-### 🗄️ Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3"/>
 
 <br><br>
 
-### 🔧 Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=5"/>
 
@@ -97,14 +95,14 @@ To become a better software developer by:
 
 A full-stack restaurant management project.
 
-### Features
+**Features**
 
-- 🔐 Authentication
-- 🍔 Restaurant Dashboard
-- 🛒 Cart
-- 📦 Order Management
-- 💳 Payments
-- 🔌 REST APIs
+* 🔐 Authentication
+* 🍔 Restaurant Dashboard
+* 🛒 Cart
+* 📦 Order Management
+* 💳 Payments
+* 🔌 REST APIs
 
 **Tech Stack**
 
@@ -113,9 +111,7 @@ A full-stack restaurant management project.
 <div align="center">
 
 <a href="https://github.com/Aman-das-dev/TasteBite">
-
-<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -128,11 +124,11 @@ A full-stack restaurant management project.
 
 An AI-powered finance project.
 
-### Features
+**Features**
 
-- 💱 Currency Converter
-- 📊 Finance Dashboard
-- 🤖 AI-assisted Financial Insights
+* 💱 Currency Converter
+* 📊 Finance Dashboard
+* 🤖 AI-assisted Financial Insights
 
 **Tech Stack**
 
@@ -141,9 +137,7 @@ An AI-powered finance project.
 <div align="center">
 
 <a href="https://github.com/Aman-das-dev/FinVerse-AI">
-
-<img src="https://img.shields.io/badge/View%20Project-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -163,9 +157,7 @@ A project focused on tracking environmental impact using AI/ML.
 <div align="center">
 
 <a href="https://github.com/Aman-das-dev/EcoTrack-AI">
-
-<img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View_Project-22C55E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -174,9 +166,7 @@ A project focused on tracking environmental impact using AI/ML.
 
 ## 🔗 URL Shortener
 
-A URL shortening service with analytics.
-
-### Flow
+A URL-shortening service with analytics.
 
 ```text
 Long URL
@@ -188,3 +178,313 @@ Short URL
 Redirect
    ↓
 Analytics
+```
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB`
+
+<div align="center">
+
+<a href="https://github.com/Aman-das-dev/URL-Shortener">
+<img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🧩 AI Jigsaw Solver
+
+A machine-learning project that reconstructs scrambled jigsaw pieces.
+
+**Tech Stack**
+
+`Python` `CNN` `Graph Neural Network`
+
+🏆 **3rd Place — ML Hackathon**
+
+🎯 **~92.4% reported accuracy**
+
+<div align="center">
+
+<a href="https://github.com/Aman-das-dev/AI-Jigsaw-Solver">
+<img src="https://img.shields.io/badge/View_Project-EF4444?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🎌 Anime Corner
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=FF66CC&center=true&vCenter=true&width=800&height=50&lines=Anime+%E2%9C%A8+Coding+%F0%9F%92%BB+Gaming+%F0%9F%8E%AE;My+Favorite+Anime+%F0%9F%94%A5"/>
+
+</div>
+
+---
+
+# ⚔️ Demon Slayer
+
+<div align="center">
+
+<img src="./assets/tanjiro.gif" width="420" alt="Tanjiro Kamado from Demon Slayer">
+
+### 🔥 Tanjiro Kamado
+
+**Keep moving forward.**
+
+`Focus` • `Practice` • `Patience`
+
+</div>
+
+---
+
+# 🍥 Naruto
+
+<div align="center">
+
+<img src="./assets/naruto.gif" width="420" alt="Naruto Uzumaki">
+
+### 🍥 Naruto Uzumaki
+
+**Believe it! 🔥**
+
+`Keep Learning` • `Keep Trying` • `Never Give Up`
+
+</div>
+
+---
+
+# 🖤 Solo Leveling
+
+<div align="center">
+
+<img src="./assets/jinwoo.gif" width="420" alt="Sung Jin-Woo from Solo Leveling">
+
+### 🖤 Sung Jin-Woo
+
+**Arise.**
+
+`Learn` • `Practice` • `Improve`
+
+</div>
+
+---
+
+# 🎮 Anime × Gaming × Coding
+
+<div align="center">
+
+<img src="./assets/gaming.gif" width="420" alt="Gaming animation">
+
+<br><br>
+
+```text
+       🎌 ANIME
+          +
+       🎮 GAMING
+          +
+       💻 CODING
+          +
+        ☕ COFFEE
+          =
+       ❤️ HAPPINESS
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Code+%F0%9F%92%BB;Game+%F0%9F%8E%AE;Watch+Anime+%E2%9C%A8;Learn+%F0%9F%93%9A;Build+%F0%9F%9A%80"/>
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🔧 Backend Development Intern
+
+### Web Bocket Software Pvt. Ltd.
+
+Worked on backend and full-stack development using:
+
+`Node.js` `Express.js` `MongoDB` `REST APIs` `Authentication`
+
+---
+
+## 💻 Programming Fundamentals Intern
+
+### IIG Varsity, Bhubaneswar
+
+Strengthened programming fundamentals as a foundation for backend and full-stack development.
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+### B.Tech — Computer Science & Engineering
+
+**GIFT Autonomous College**
+
+**2023 – 2027**
+
+📍 Odisha, India
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement          |     Result    |
+| :------------------- | :-----------: |
+| 🚀 Software Projects |    **12+**    |
+| 🥉 ML Hackathon      | **3rd Place** |
+| 🤖 AI Jigsaw Solver  |   **~92.4%**  |
+| 📜 IBM SkillsBuild   | **Certified** |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Next.js;TypeScript;AI%2FML;System+Design;Docker"/>
+
+</div>
+
+---
+
+# 🎯 My Goals
+
+* 🚀 Build better projects
+* 💻 Improve backend development
+* 🧠 Learn more about system design
+* 🤖 Build more AI/ML projects
+* 🌐 Improve full-stack development
+* 🤝 Contribute to open source
+* 📚 Keep learning every day
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aman-das-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-das-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-das-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true" width="95%">
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Every+commit+helps+me+learn+%F0%9F%94%A5;Keep+coding!+%F0%9F%92%BB;Keep+building!+%F0%9F%9A%80">
+
+</div>
+
+---
+
+# 🌟 A Little More About Me
+
+<div align="center">
+
+| 💻 Coding | 🎮 Gaming | 🎌 Anime | 🤖 AI |
+| :-------: | :-------: | :------: | :---: |
+|     ❤️    |     ❤️    |    ❤️    |   ❤️  |
+
+<br>
+
+**I enjoy coding, gaming, anime and learning new things.**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Aman-das-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/aman-das-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/Aman-das-dev">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://Aman-das-dev.hashnode.dev">
+<img src="https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+visiting!+%F0%9F%91%8B;See+you+in+the+next+commit!+%F0%9F%9A%80"/>
+
+<br><br>
+
+```text
+💻 Code • 🎮 Game • 🎌 Anime • 🤖 AI • 🚀 Build
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:58a6ff&height=140&section=footer" width="100%">
+
+</div>
+```
+
+### The important part
+
+Don't change these filenames:
+
+```text
+assets/tanjiro.gif
+assets/naruto.gif
+assets/jinwoo.gif
+assets/coding.gif
+assets/gaming.gif
+assets/anime-banner.gif
+```
+
+If your actual files are `.png` or `.jpg`, just change the extension in the README, for example:
+
+```html
+<img src="./assets/tanjiro.png" width="420">
+```
+
+GitHub recommends relative paths for images stored in your repository, so this setup is much more dependable than the broken external character URLs we were using before.
+
+**Also:** I kept your actual profile information rather than inventing new achievements or skills. Your original README lists your MERN/Java/Python/AI focus, projects, internships, 12+ projects, and ML hackathon achievement.
