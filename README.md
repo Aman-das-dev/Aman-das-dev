@@ -34,6 +34,12 @@ I enjoy building full-stack applications, designing backend systems, exploring A
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="210" alt="Coding vibe animation" />
 </div>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="560" alt=""/>
+
+</div>
+
 ## 🧭 Quick Snapshot
 
 | Focus | Details |
@@ -72,6 +78,12 @@ I enjoy building full-stack applications, designing backend systems, exploring A
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" alt="Technology animation" />
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65" alt="Technology animation" />
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" alt="Technology animation" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="560" alt=""/>
 
 </div>
 
@@ -119,6 +131,12 @@ A machine-learning project that reconstructs scrambled jigsaw pieces.
 
 `Python` `CNN` `Graph Neural Network`
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="560" alt=""/>
+
+</div>
+
 ---
 
 ## 🧪 Other Projects & Product Work
@@ -147,24 +165,6 @@ Worked on the frontend experience for a water-supply project, focusing on a clea
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="240" alt="Productive working animation" />
 </div>
 
-
----
-
-## ⚡
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="620" alt=""/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="620" alt=""/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="620" alt=""/>
-
-</div>
 
 ---
 
