@@ -150,29 +150,21 @@ Worked on the frontend experience for a water-supply project, focusing on a clea
 
 ---
 
-## ⚡ Work Mode & Fun
+## ⚡
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<strong>🍄 Mario</strong><br/>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180" alt="Mario animation" />
-</td>
-<td align="center">
-<strong>💻 Multiprogramming Environment</strong><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="180" alt="Multiprogramming environment animation" />
-</td>
-<td align="center">
-<strong>🚀 Let's Do It</strong><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="180" alt="Let's do it animation" />
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="620" alt=""/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="620" alt=""/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="620" alt=""/>
 
 </div>
-
 
 ---
 
