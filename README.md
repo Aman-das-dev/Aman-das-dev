@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=Aman-das-dev&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 
-<img src="./assets/coding.gif" width="420" alt="Coding animation"></div>👋 About Me
-<div align="center"><img src="./assets/anime-banner.gif" width="500" alt="Anime banner"></div>Hi! I'm Aman Prasad Das.
+<img src="./assets/coding.svg" width="420" alt="Coding animation"></div>👋 About Me
+<div align="center"><img src="./assets/anime-banner.svg" width="500" alt="Anime banner"></div>Hi! I'm Aman Prasad Das.
 
 I'm a B.Tech Computer Science & Engineering student at GIFT Autonomous College.
 
@@ -107,22 +107,22 @@ Python CNN Graph Neural Network
 <img src="https://img.shields.io/badge/View_Project-EF4444?style=for-the-badge&logo=github&logoColor=white">
 </a></div>🎌 Anime Corner
 <div align="center"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=FF66CC&center=true&vCenter=true&width=800&height=50&lines=Anime+%E2%9C%A8+Coding+%F0%9F%92%BB+Gaming+%F0%9F%8E%AE;My+Favorite+Anime+%F0%9F%94%A5"/></div>⚔️ Demon Slayer
-<div align="center"><img src="./assets/tanjiro.gif" width="420" alt="Tanjiro Kamado from Demon Slayer">🔥 Tanjiro Kamado
+<div align="center"><img src="./assets/fire-swordsman.svg" width="420" alt="Tanjiro Kamado from Demon Slayer">🔥 Tanjiro Kamado
 Keep moving forward.
 
 Focus • Practice • Patience
 </div>🍥 Naruto
-<div align="center"><img src="./assets/naruto.gif" width="420" alt="Naruto Uzumaki">🍥 Naruto Uzumaki
+<div align="center"><img src="./assets/ninja.svg" width="420" alt="Naruto Uzumaki">🍥 Naruto Uzumaki
 Believe it! 🔥
 
 Keep Learning • Keep Trying • Never Give Up
 </div>🖤 Solo Leveling
-<div align="center"><img src="./assets/jinwoo.gif" width="420" alt="Sung Jin-Woo from Solo Leveling">🖤 Sung Jin-Woo
+<div align="center"><img src="./assets/shadow-hunter.svg" width="420" alt="Sung Jin-Woo from Solo Leveling">🖤 Sung Jin-Woo
 Arise.
 
 Learn • Practice • Improve
 </div>🎮 Anime × Gaming × Coding
-<div align="center"><img src="./assets/gaming.gif" width="420" alt="Gaming animation">
+<div align="center"><img src="./assets/gaming.svg" width="420" alt="Gaming animation">
 
 
        🎌 ANIME
@@ -245,16 +245,3 @@ I enjoy coding, gaming, anime and learning new things.
 💻 Code • 🎮 Game • 🎌 Anime • 🤖 AI • 🚀 Build
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:58a6ff&height=140&section=footer" width="100%"></div>
-```The important part
-Don't change these filenames:
-assets/tanjiro.gif
-assets/naruto.gif
-assets/jinwoo.gif
-assets/coding.gif
-assets/gaming.gif
-assets/anime-banner.gif
-If your actual files are .png or .jpg, just change the extension in the README, for example:
-<img src="./assets/tanjiro.png" width="420">
-GitHub recommends relative paths for images stored in your repository, so this setup is much more dependable than the broken external character URLs we were using before.
-
-Also: I kept your actual profile information rather than inventing new achievements or skills. Your original README lists your MERN/Java/Python/AI focus, projects, internships, 12+ projects, and ML hackathon achievement.
