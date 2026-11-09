@@ -45,6 +45,17 @@ I enjoy building full-stack applications, designing backend systems, exploring A
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&perline=5" />
 **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&perline=6" />
+
+**Moving Tech Illustrations**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="72" alt="Animated technology icon" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="72" alt="Animated technology icon" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="72" alt="Animated technology icon" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="72" alt="Animated technology icon" />
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="72" alt="Animated technology icon" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="72" alt="Animated technology icon" />
+</div>
 </div>
 
 ---
@@ -155,13 +166,6 @@ Odisha, India
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-das-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true" width="95%" />
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aman-das-dev/Aman-das-dev/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation" />
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -170,6 +174,14 @@ Odisha, India
 <a href="https://linkedin.com/in/aman-das-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/Aman-das-dev"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://Aman-das-dev.hashnode.dev"><img src="https://img.shields.io/badge/Blog-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+
+**Animated Social Icons**
+
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="72" alt="Animated social icon" />
+<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="72" alt="Animated social icon" />
+<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="72" alt="Animated social icon" />
+<img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="72" alt="Animated social icon" />
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="160" alt="Hello there animation" />
 
